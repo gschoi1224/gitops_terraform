@@ -7,7 +7,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/powermvp1024/gitops_petclinic
+    repoURL: https://github.com/gschoi1224/gitops_petclinic
     targetRevision: HEAD
     path: .
   destination:
